@@ -1,0 +1,14 @@
+# Documentos privados (análisis y presupuesto): no se publican
+privado/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+TestResults/
+*.log
+appsettings.*.local.json
